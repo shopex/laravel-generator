@@ -1,6 +1,6 @@
 {
-    "name": "infyomlabs/laravel-generator",
-    "description": "InfyOm Laravel Generator",
+    "name": "shopex/adminui-generator",
+    "description": "Luban Laravel AdminUI Generator From InfyOm",
     "keywords": [
         "laravel",
         "api",
@@ -18,8 +18,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "shopex",
+            "email": "dev@shopex.cn"
         }
     ],
     "require": {
